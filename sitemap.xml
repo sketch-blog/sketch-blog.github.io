@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>./posts/blog/2019-09-03-tranceferwise.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>./posts/blog/2019-09-02-tagcloud.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>./posts/blog/2019-09-02-unionbank.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>./posts/blog/2019-08-31-rakuten-seminar.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>./posts/blog/2019-08-30-titledesign.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+
+    <url>
+        <loc>./pages/about.html</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>./pages/terms.html</loc>
+        <priority>1.0</priority>
+    </url>
+
+
+</urlset>

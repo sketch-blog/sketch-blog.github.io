@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-09-03T00:00:00+00:00</updated><entry><title>ユニオンバンクへの送金。初めての海外送金。 – スケッチ</title><link href="/yunionbankuhenosong-jin-chu-metenohai-wai-song-jin-suketsuchi.html" rel="alternate"></link><published>2019-09-03T00:00:00+00:00</published><updated>2019-09-03T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-09-03:/yunionbankuhenosong-jin-chu-metenohai-wai-song-jin-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;ユニオンバンクへの送金。初めての海外送金。&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-03T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/03&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_banking.jpg" /&gt;
+  &lt;/div&gt;
+
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;先日、ユニオンバンクの口座開設が完了したので、60日以内に300ドル以上入金しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;海外送金にこんなにお金がかかるってしりませんでした。衝撃です。
+今更だけど、投機目的として注目されがちだけど、仮想通貨って便利だなって思った。&lt;/p&gt;
+&lt;p&gt;UFJ銀行からユニオンバンクへはUFJダイレクトで送金できるらしいんですが、&lt;a href="https://direct.bk.mufg.jp/tesuuryo/index.html"&gt;手数料一覧 | 三菱ＵＦＪ銀行&lt;/a&gt;の、外国送金関連手数料の所を見ますと、3000円かかるみたいですね。その他ユニオンバンク側で受取手数料15ドル、為替手数料が1円あたり25戦。その他送ってみないとわからないみたいな手数料があるらしい。&lt;/p&gt;
+&lt;p&gt;やめたくなってきました。ビットコインで送金できませんか泣。&lt;/p&gt;
+&lt;p&gt;ということでググりまくって、 &lt;a href="https://www.lifehacker.jp/2016/05/160512transferwise_report1.html"&gt;海外送金サービス｢TransferWise｣を使ってみた …&lt;/a&gt;&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;ユニオンバンクへの送金。初めての海外送金。&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-03T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/03&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_banking.jpg" /&gt;
+  &lt;/div&gt;
+
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;先日、ユニオンバンクの口座開設が完了したので、60日以内に300ドル以上入金しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;海外送金にこんなにお金がかかるってしりませんでした。衝撃です。
+今更だけど、投機目的として注目されがちだけど、仮想通貨って便利だなって思った。&lt;/p&gt;
+&lt;p&gt;UFJ銀行からユニオンバンクへはUFJダイレクトで送金できるらしいんですが、&lt;a href="https://direct.bk.mufg.jp/tesuuryo/index.html"&gt;手数料一覧 | 三菱ＵＦＪ銀行&lt;/a&gt;の、外国送金関連手数料の所を見ますと、3000円かかるみたいですね。その他ユニオンバンク側で受取手数料15ドル、為替手数料が1円あたり25戦。その他送ってみないとわからないみたいな手数料があるらしい。&lt;/p&gt;
+&lt;p&gt;やめたくなってきました。ビットコインで送金できませんか泣。&lt;/p&gt;
+&lt;p&gt;ということでググりまくって、 &lt;a href="https://www.lifehacker.jp/2016/05/160512transferwise_report1.html"&gt;海外送金サービス｢TransferWise｣を使ってみた | ライフハッカー［日本版］&lt;/a&gt;このような記事発見。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;日本にいる私はオランダの口座に10万円に相当するユーロを送金したいと思っています。そこで私は海外送金するのではなく、TransferWiseの日本の口座に10万円を振り込みます。TransferWiseは、10万円に相当するユーロを日本の口座に円で送金したい人を探します（マッチング）。マッチングしたAさんは、10万円に相当するユーロをTransferWiseのオランダの口座に振り込みます。
+お互いが希望する通貨、金額をマッチさせ、海外送金することなく国内取引で決済することで、為替手数料が発生しない仕組み&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;TransferWise天才って思った。&lt;/p&gt;
+&lt;p&gt;これを使ってみます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transferwise.com/jp#chart"&gt;ネットでかんたんに海外送金 | TransferWiseで海外へ送金する&lt;/a&gt;のページで金額を入力すると、画像のように他社との手数料の比較ができます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/2019-09-02_13h34_01.jpg"&gt;TransferWise手数料の比較&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;それと、&lt;a href="https://transferwise.com/jp/terms-of-use"&gt;利用規約&lt;/a&gt;のページには&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;資金決済に関する法律（平成二十一年六月二十四日法律第五十九号、以下「資金決済法」という。）に基づき内閣総理大臣の登録を受けた資金移動業者です（登録番号：関東財務局長第00040号）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とのこと。&lt;/p&gt;
+&lt;p&gt;最大100万円まで利用できるようです。&lt;/p&gt;
+&lt;p&gt;ユニオンバンクからATNカードが届いて、ネットバンキングに登録出来るようになったら早速送金してみたいと思います。&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;div class="related-posts"&gt;
+      &lt;h4&gt;関連記事:&lt;/h4&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-09-02-unionbank.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_coins.jpg" alt=" 米国株式投資を始める為の準備。"&gt;
+            米国株式投資を始める為の準備。&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-08-31-rakuten-seminar.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_money.jpg" alt=" 【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ"&gt;
+            【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry><entry><title>ブログにタグクラウド設置 – スケッチ</title><link href="/burogunitagukuraudoshe-zhi-suketsuchi.html" rel="alternate"></link><published>2019-09-02T00:00:00+00:00</published><updated>2019-09-02T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-09-02:/burogunitagukuraudoshe-zhi-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;ブログにタグクラウド設置&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-02T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/02&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/pelican.html" title="All articles with Pelican tag"&gt;#pelican&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_pelican.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#tagukakategorika." title="タグかカテゴリか。"&gt;タグかカテゴリか。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#puraguinwodao ru" title="プラグインを導入"&gt;プラグインを導入&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#zui hou ni" title="最後に"&gt;最後に&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。&lt;/p&gt;
+
+&lt;h2 id="tagukakategorika."&gt;タグかカテゴリか。&lt;/h2&gt;
+&lt;p&gt;このブログはスタティックサイトジェネレータの&lt;a href="https://github.com/getpelican/pelican"&gt;Pelican&lt;/a&gt;で作られているんですが、ちょっとカテゴリにするか、タグにするかどちらか悩んだのですが、結局タグを使用することにしました。&lt;/p&gt;
+&lt;p&gt;カテゴリだと1記事に対して、1個しか作れないけど、タグなら複数つけられて、執筆の際に悩まなくてすみますからね。&lt;/p&gt;
+&lt;p&gt;両方使うとなんかややこしくなるのでしばらくタグのみでやってみます。&lt;/p&gt;
+&lt;p&gt;それでサイドバーに&lt;a href="https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud"&gt;pelican-plugins/tag_cloud at master &amp;middot; getpelican/pelican-plugins …&lt;/a&gt;&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;ブログにタグクラウド設置&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-02T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/02&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/pelican.html" title="All articles with Pelican tag"&gt;#pelican&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_pelican.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#tagukakategorika." title="タグかカテゴリか。"&gt;タグかカテゴリか。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#puraguinwodao ru" title="プラグインを導入"&gt;プラグインを導入&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#zui hou ni" title="最後に"&gt;最後に&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。&lt;/p&gt;
+
+&lt;h2 id="tagukakategorika."&gt;タグかカテゴリか。&lt;/h2&gt;
+&lt;p&gt;このブログはスタティックサイトジェネレータの&lt;a href="https://github.com/getpelican/pelican"&gt;Pelican&lt;/a&gt;で作られているんですが、ちょっとカテゴリにするか、タグにするかどちらか悩んだのですが、結局タグを使用することにしました。&lt;/p&gt;
+&lt;p&gt;カテゴリだと1記事に対して、1個しか作れないけど、タグなら複数つけられて、執筆の際に悩まなくてすみますからね。&lt;/p&gt;
+&lt;p&gt;両方使うとなんかややこしくなるのでしばらくタグのみでやってみます。&lt;/p&gt;
+&lt;p&gt;それでサイドバーに&lt;a href="https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud"&gt;pelican-plugins/tag_cloud at master &amp;middot; getpelican/pelican-plugins&lt;/a&gt;を導入したときのメモを残します。&lt;/p&gt;
+&lt;h2 id="puraguinwodao ru"&gt;プラグインを導入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud"&gt;pelican-plugins/tag_cloud at master &amp;middot; getpelican/pelican-plugins&lt;/a&gt;からダウンロードしてPLUGIN_PATHに設置。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pelicanconf.pyに&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nv"&gt;PLUGINS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; [&lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;tag_cloud&lt;/span&gt;&lt;span class="s1"&gt;'&lt;/span&gt;]
+
+
+
+&lt;span class="nv"&gt;TAG_CLOUD_STEPS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; #サイズを変化させる段階
+&lt;span class="nv"&gt;TAG_CLOUD_MAX_ITEMS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt; #最大何個表示するか
+&lt;span class="nv"&gt;TAG_CLOUD_SORTING&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;random&lt;/span&gt;&lt;span class="s1"&gt;'&lt;/span&gt; # 並び順　&lt;span class="k"&gt;random&lt;/span&gt;, &lt;span class="nv"&gt;alphabetically&lt;/span&gt;, &lt;span class="nv"&gt;alphabetically&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;rev&lt;/span&gt;, &lt;span class="nv"&gt;size&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt; &lt;span class="nv"&gt;size&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;rev&lt;/span&gt;
+&lt;span class="nv"&gt;TAG_CLOUD_BADGE&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nv"&gt;True&lt;/span&gt; #記事数のバッジ
+&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;templateに任意の場所（私の場合はbase.htmlのサイドバーの部分）に&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;ul&lt;/span&gt; &lt;span class="nv"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="s"&gt;tagcloud&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+    {&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="nv"&gt;tag&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;tag_cloud&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;}
+        &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;li&lt;/span&gt; &lt;span class="nv"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="s"&gt;tag-{{ tag.1 }}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;a&lt;/span&gt; &lt;span class="nv"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="s"&gt;{{ SITEURL }}/{{ tag.0.url }}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+            {{ &lt;span class="nv"&gt;tag&lt;/span&gt;.&lt;span class="mi"&gt;0&lt;/span&gt; }}
+                {&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="nv"&gt;TAG_CLOUD_BADGE&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;}
+                    &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;span&lt;/span&gt; &lt;span class="nv"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="s"&gt;badge&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;{{ &lt;span class="nv"&gt;tag&lt;/span&gt;.&lt;span class="mi"&gt;2&lt;/span&gt; }}&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nv"&gt;span&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+                {&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;endif&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;}
+            &lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nv"&gt;a&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nv"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+    {&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="nv"&gt;endfor&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;}
+&lt;span class="o"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nv"&gt;ul&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;スタイルシートに&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;tagcloud&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;list-style&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kc"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;padding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;tagcloud&lt;/span&gt; &lt;span class="nt"&gt;li&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kc"&gt;inline-block&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;tag-1&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;150&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nc"&gt;tag-2&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;120&lt;/span&gt;&lt;span class="kt"&gt;%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;私はカテゴリ風に使うので大きさは変化させていません。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;タグのスラッグを設定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;日本語のタグの場合&lt;a href="https://docs.getpelican.com/en/stable/changelog.html?highlight=TAG_SUBSTITUTIONS#id6"&gt;Release history &amp;mdash; Pelican 4.1.1 documentation&lt;/a&gt; にあるように、タグのスラッグをpelicanconf.pyで設定します。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;TAG_SUBSTITUTIONS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;
+    &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;unidecode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'テスト'&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s1"&gt;'test'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;True&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;unidecode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'投稿'&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s1"&gt;'post'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;True&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;unidecode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'お知らせ'&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s1"&gt;'infomation'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;こんな感じ。&lt;/p&gt;
+&lt;h2 id="zui hou ni"&gt;最後に&lt;/h2&gt;
+&lt;p&gt;pelicanの記事だからpelicanの写真ないかなーって探したら自前であったのすごくないですか。
+八景島シーパラダイスのペリカンさんの写真です。。。これペリカンだと思う。&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry><entry><title>米国株式投資を始める為の準備。 – スケッチ</title><link href="/mi-guo-zhu-shi-tou-zi-woshi-meruwei-nozhun-bei-suketsuchi.html" rel="alternate"></link><published>2019-09-02T00:00:00+00:00</published><updated>2019-09-02T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-09-02:/mi-guo-zhu-shi-tou-zi-woshi-meruwei-nozhun-bei-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;米国株式投資を始める為の準備。&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-02T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/02&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_coins.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#zhun bei ji hua" title="準備計画"&gt;準備計画&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#yunionbankukou zuo kai she" title="ユニオンバンク口座開設"&gt;ユニオンバンク口座開設&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#shen fen zheng ming shu" title="身分証明書"&gt;身分証明書&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#kokodemoyatsuparikou zuo wei chi shou shu liao nowen ti ." title="ここでもやっぱり口座維持手数料の問題。"&gt;ここでもやっぱり口座維持手数料の問題。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#ri ben yu sapotogaarunodean xin ." title="日本語サポートがあるので安心。"&gt;日本語サポートがあるので安心。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#kou zuo kai she wan liao" title="口座開設完了"&gt;口座開設完了&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;米国株式投資を始める為に、ユニオンバンク口座開設をした。簡単だった。&lt;/p&gt;
+
+&lt;p&gt;最近、米国株式に興味がありまして勉強中です。
+本を読んだり、ネットで調べまくったりした結果、
+売買手数料無料、口座維持手数料もないFirstradeにアカウントを作りたい。&lt;/p&gt;
+&lt;p&gt;インタラクティブブローカーズ証券をおすすめしている方が多かった印象ですが、月間口座維持手数料がかかる（条件次第で無料になりますが）。
+インタラクティブブローカーズ証券の&lt;a href="https://www.interactivebrokers.co.jp/jp/index.php?f=236&amp;amp;p=act"&gt;必要最低額 | Interactive Brokers&lt;/a&gt;のページによると …&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;米国株式投資を始める為の準備。&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-09-02T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/09/02&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_coins.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#zhun bei ji hua" title="準備計画"&gt;準備計画&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#yunionbankukou zuo kai she" title="ユニオンバンク口座開設"&gt;ユニオンバンク口座開設&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#shen fen zheng ming shu" title="身分証明書"&gt;身分証明書&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#kokodemoyatsuparikou zuo wei chi shou shu liao nowen ti ." title="ここでもやっぱり口座維持手数料の問題。"&gt;ここでもやっぱり口座維持手数料の問題。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#ri ben yu sapotogaarunodean xin ." title="日本語サポートがあるので安心。"&gt;日本語サポートがあるので安心。&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#kou zuo kai she wan liao" title="口座開設完了"&gt;口座開設完了&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;米国株式投資を始める為に、ユニオンバンク口座開設をした。簡単だった。&lt;/p&gt;
+
+&lt;p&gt;最近、米国株式に興味がありまして勉強中です。
+本を読んだり、ネットで調べまくったりした結果、
+売買手数料無料、口座維持手数料もないFirstradeにアカウントを作りたい。&lt;/p&gt;
+&lt;p&gt;インタラクティブブローカーズ証券をおすすめしている方が多かった印象ですが、月間口座維持手数料がかかる（条件次第で無料になりますが）。
+インタラクティブブローカーズ証券の&lt;a href="https://www.interactivebrokers.co.jp/jp/index.php?f=236&amp;amp;p=act"&gt;必要最低額 | Interactive Brokers&lt;/a&gt;のページによると、10ドル以上を取引手数料として使っていれば、月間口座維持手数料は取られないみたいなんですが、勉強中だし、そんなに頻繁に取引できるとも思えないので。
+ただ、日本語サポートが受けられたり、たぶん、月間口座維持手数料を払っても、それを補って余りあるメリットがあるとは思います。&lt;/p&gt;
+&lt;p&gt;私の場合は、他のことにかまけてる間に、あ、今月取引しないで終わってしまって月間口座維持手数料とられてまった！ってなることが目に見えてるので、最初は焦らずゆっくり勉強できる、売買手数料無料、口座維持手数料もないという環境を選びました。&lt;/p&gt;
+&lt;p&gt;日本語サポートがないので、そこはかなり心配です！&lt;/p&gt;
+&lt;h2 id="zhun bei ji hua"&gt;準備計画&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;とにかくFirstradeにアカウントを作るって決めた。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;そして、海外送金。ですが、近年、マネーロンダリング対策などで、海外の証券会社に送金するのが難しくなっているみたいな、ブログ記事をいくつか見かけました。そこで、まずは米国に銀行口座を作る。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ユニオンバンク口座開設が完了したら、TransferWiseというサービスを使用してユニオンバンクに送金する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Firstrade側でACHの設定をしてユニオンバンクから入金する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;という流れになります。&lt;/p&gt;
+&lt;h2 id="yunionbankukou zuo kai she"&gt;ユニオンバンク口座開設&lt;/h2&gt;
+&lt;p&gt;ですからまず米国に銀行口座をつくるところから始めなければなりません。
+日本に居ながらにして、米国の銀行口座をオープンするには&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.bk.mufg.jp/tsukau/kaigai/kouza/cali/index.html"&gt;海外口座ご紹介サービス《カリフォルニアアカウント・プログラム》 | 三菱ＵＦＪ銀行&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;を利用します。たぶん時間がかかるだろうと思ったので、まずここから手を付けます。
+上記ページから資料請求をしたところ、ちょうど1週間で資料が届きました。お急ぎの方はご自身でプリントしてもいいみたいです。
+でも結構ページ数あったし、送ってもらったり、近くのUFJ銀行に取りに行ってもいいかもしれませんね。&lt;/p&gt;
+&lt;p&gt;もれなく、間違いなく記入して、身分証も間違いなく同封して、2週間かからずにで口座開設完了の通知が返ってきました。
+間違いがあったりすると、一回送り返されてくるみたいなので、注意してください。
+私の場合は資料請求から、口座開設完了まで、ちょうど一か月くらいでした。&lt;/p&gt;
+&lt;p&gt;必要書類等詳しくは* &lt;a href="https://www.bk.mufg.jp/tsukau/kaigai/kouza/cali/moushikomi2.html"&gt;お手続方法・申込フロー ： PDF版「申込書」 | 三菱ＵＦＪ銀行&lt;/a&gt;です。&lt;/p&gt;
+&lt;h3 id="shen fen zheng ming shu"&gt;身分証明書&lt;/h3&gt;
+&lt;p&gt;身分証は、日本の運転免許証と健康保険証があれば、パスポートはなくても大丈夫です。&lt;/p&gt;
+&lt;h3 id="kokodemoyatsuparikou zuo wei chi shou shu liao nowen ti ."&gt;ここでもやっぱり口座維持手数料の問題。&lt;/h3&gt;
+&lt;p&gt;チェッキングアカウントがあるととても便利なので作った方がいい、というブログの書き込みを結構みかけたのですが、
+私は口座維持手数料が嫌なので、継続的な入出金がないと免除にならないのでチェッキングアカウントはつくりませんでした。&lt;/p&gt;
+&lt;p&gt;セービングスアカウントは300ドル以上残高があれば口座維持手数料が免除になります。これはクリアできそうです。&lt;/p&gt;
+&lt;h3 id="ri ben yu sapotogaarunodean xin ."&gt;日本語サポートがあるので安心。&lt;/h3&gt;
+&lt;p&gt;書類もほとんど日本語です。一部英語で書く場所がありますが、かなり丁寧な見本がついてるのでその通り書けば大丈夫。&lt;/p&gt;
+&lt;h3 id="kou zuo kai she wan liao"&gt;口座開設完了&lt;/h3&gt;
+&lt;p&gt;2週間程度でUFJ銀行から郵送されてきました。&lt;/p&gt;
+&lt;p&gt;この後ユニオンバンクからATMカードなどが郵送されてきます。
+これがないとネットバンキングの申し込みができないのでもう少し時間が必要なようです。&lt;/p&gt;
+&lt;p&gt;書類に口座開設日が書いてあるので、そこから60日以内に入金を行わないと、口座が解約されてしまうとのこと。
+300ドル以上の残高がないと口座維持手数料がかかってしまうので、500ドルくらい入金してみようと思う。
+送金で入金すると受取手数料が15ドルかかる。&lt;/p&gt;
+&lt;p&gt;送金については次回にします。&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;div class="related-posts"&gt;
+      &lt;h4&gt;関連記事:&lt;/h4&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-09-03-tranceferwise.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_banking.jpg" alt=" ユニオンバンクへの送金。初めての海外送金。"&gt;
+            ユニオンバンクへの送金。初めての海外送金。&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-08-31-rakuten-seminar.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_money.jpg" alt=" 【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ"&gt;
+            【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry><entry><title>【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ – スケッチ</title><link href="/mi-guo-zhu-shi-ren-sheng-100nian-shi-dai-wojian-ju-etahou-hui-shinaizi-chan-xing-cheng-seminamemo-suketsuchi.html" rel="alternate"></link><published>2019-08-31T00:00:00+00:00</published><updated>2019-08-31T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-08-31:/mi-guo-zhu-shi-ren-sheng-100nian-shi-dai-wojian-ju-etahou-hui-shinaizi-chan-xing-cheng-seminamemo-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-31T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/31&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_money.jpg" /&gt;
+  &lt;/div&gt;
+
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。&lt;/p&gt;
+
+&lt;p&gt;最近、米国株式に興味がありまして、勉強中です。
+先日、楽天証券の
+「【米国株式】人生100年時代を見据えた後悔しない資産形成」
+っていうオンラインセミナーを受講しました。
+その際のメモを残します。&lt;/p&gt;
+&lt;p&gt;きっかけはこの講座の講師の広瀬隆雄という方のTwitterフォローしてたし、米国株式に興味があったから、きっと勉強になるなと思って。
+自分が気になった内容は、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今話題？の老後2000万円をどうつくっていくか。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;確定拠出年金を使用する。&lt;/p&gt;
+&lt;p&gt;積立と複利で資産を形成していく。おすすめは楽天証券iDeCo（楽天証券が開催しているセミナーなので）。
+ローコストである。運用管理手数料ゼロ。全米株式と全世界株式 …&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-31T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/31&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/toushi.html" title="All articles with 投資 tag"&gt;#投資&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_money.jpg" /&gt;
+  &lt;/div&gt;
+
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。&lt;/p&gt;
+
+&lt;p&gt;最近、米国株式に興味がありまして、勉強中です。
+先日、楽天証券の
+「【米国株式】人生100年時代を見据えた後悔しない資産形成」
+っていうオンラインセミナーを受講しました。
+その際のメモを残します。&lt;/p&gt;
+&lt;p&gt;きっかけはこの講座の講師の広瀬隆雄という方のTwitterフォローしてたし、米国株式に興味があったから、きっと勉強になるなと思って。
+自分が気になった内容は、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今話題？の老後2000万円をどうつくっていくか。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;確定拠出年金を使用する。&lt;/p&gt;
+&lt;p&gt;積立と複利で資産を形成していく。おすすめは楽天証券iDeCo（楽天証券が開催しているセミナーなので）。
+ローコストである。運用管理手数料ゼロ。全米株式と全世界株式。しかも今は今は掛金全額所得控除、運用益非課税。
+受給時公的年金等控除。&lt;/p&gt;
+&lt;p&gt;私は特に楽天証券をおすすめするわけではないのですが、税制優遇に関しては　&lt;a href="https://dc.rakuten-sec.co.jp/about/tax/"&gt;税制優遇について | 確定拠出年金とは | 個人型確定拠出年金:iDeCo(イデコ) | 楽天証券&lt;/a&gt;のページがとても分かりやすいです。&lt;/p&gt;
+&lt;p&gt;デメリットとしては、払い出し制限があること。
+元本割れする商品もあること。
+投資先を選ぶのは結構難しいこと。これに関しては広瀬氏は全米株式と全世界株式がおすすめだった。&lt;/p&gt;
+&lt;p&gt;とこんな感じだったのですが、一番為になったのは、今自分たちが払っている年金は、運用されずにすぐにどこかの年金受給者に振り出されているらしい。&lt;/p&gt;
+&lt;p&gt;KAPPAさんも* &lt;a href="http://kappaoption.blogspot.com/2019/09/blog-post.html"&gt;KAPPAの株式投資・オプション取引: 年金は破綻してる？&lt;/a&gt;　と簡単にですが書いていらっしゃいますね。&lt;/p&gt;
+&lt;p&gt;賦課方式の年金システムは少子化等の問題で、将来成り立たないし、これは日本に限ったことではなく、同じ問題を抱える世界各国ではすでに積み立て方式への移行が始まっている。
+だから私たちは自分で考えなければならない。賦課方式をこのまま続けていくのか、積み立て方式に移行するのか。
+積立方式に移行したいのであれば、税制優遇措置があるうちに確定拠出年金始めるといい。&lt;/p&gt;
+&lt;p&gt;税制優遇措置がいつまで続くのかはわからないけど、広瀬氏によると長く延長されると思うとのこと。
+なぜなら、国としても、賦課方式から積み立て方式に緩やかに移行していくための政策を続けたいはずだから。&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;div class="related-posts"&gt;
+      &lt;h4&gt;関連記事:&lt;/h4&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-09-03-tranceferwise.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_banking.jpg" alt=" ユニオンバンクへの送金。初めての海外送金。"&gt;
+            ユニオンバンクへの送金。初めての海外送金。&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-09-02-unionbank.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_coins.jpg" alt=" 米国株式投資を始める為の準備。"&gt;
+            米国株式投資を始める為の準備。&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry><entry><title>当ブログタイトルヘッダのデザイン案 – スケッチ</title><link href="/dang-burogutaitoruhetsudanodezainan-suketsuchi.html" rel="alternate"></link><published>2019-08-30T00:00:00+00:00</published><updated>2019-08-30T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-08-30:/dang-burogutaitoruhetsudanodezainan-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;当ブログタイトルヘッダのデザイン案&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-30T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/30&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/illust.html" title="All articles with イラスト tag"&gt;#イラスト&lt;/a&gt;
+      &lt;/span&gt;
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/design.html" title="All articles with デザイン tag"&gt;#デザイン&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_sketch_logo_03.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#riniyuaruniatatsutetaitorudezainwoikutsukazuo cheng" title="リニューアルにあたってタイトルデザインをいくつか作成"&gt;リニューアルにあたってタイトルデザインをいくつか作成&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaaan" title="ブログタイトルヘッダA案"&gt;ブログタイトルヘッダA案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaban" title="ブログタイトルヘッダB案"&gt;ブログタイトルヘッダB案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudacan" title="ブログタイトルヘッダC案"&gt;ブログタイトルヘッダC案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaean" title="ブログタイトルヘッダE案"&gt;ブログタイトルヘッダE案&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;このブログのタイトルヘッダのデザイン案。採用しなかった物もここに置いておこう。&lt;/p&gt;
+
+&lt;h2 id="riniyuaruniatatsutetaitorudezainwoikutsukazuo cheng"&gt;リニューアルにあたってタイトルデザインをいくつか作成&lt;/h2&gt;
+&lt;p&gt;フォントは &lt;a href="https://www.dafont.com/fff-tusj.font"&gt;FFF Tusj Font | dafont.com&lt;/a&gt;　を使わせていただきました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Free for personal and commercial use&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とのことなので …&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;当ブログタイトルヘッダのデザイン案&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-30T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/30&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/illust.html" title="All articles with イラスト tag"&gt;#イラスト&lt;/a&gt;
+      &lt;/span&gt;
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/design.html" title="All articles with デザイン tag"&gt;#デザイン&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_sketch_logo_03.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#riniyuaruniatatsutetaitorudezainwoikutsukazuo cheng" title="リニューアルにあたってタイトルデザインをいくつか作成"&gt;リニューアルにあたってタイトルデザインをいくつか作成&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaaan" title="ブログタイトルヘッダA案"&gt;ブログタイトルヘッダA案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaban" title="ブログタイトルヘッダB案"&gt;ブログタイトルヘッダB案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudacan" title="ブログタイトルヘッダC案"&gt;ブログタイトルヘッダC案&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class="toc-href" href="#burogutaitoruhetsudaean" title="ブログタイトルヘッダE案"&gt;ブログタイトルヘッダE案&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;このブログのタイトルヘッダのデザイン案。採用しなかった物もここに置いておこう。&lt;/p&gt;
+
+&lt;h2 id="riniyuaruniatatsutetaitorudezainwoikutsukazuo cheng"&gt;リニューアルにあたってタイトルデザインをいくつか作成&lt;/h2&gt;
+&lt;p&gt;フォントは &lt;a href="https://www.dafont.com/fff-tusj.font"&gt;FFF Tusj Font | dafont.com&lt;/a&gt;　を使わせていただきました。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Free for personal and commercial use&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とのことなので、ありがたく使わせていただきます。&lt;/p&gt;
+&lt;p&gt;ボツ案って特に使い道無いんで、捨てればいいのだけれど、なんとなく捨てられない気持ちがあって、ハードディスクやらクラウドの容量をどんどん食っていく。1年か2年くらいたってやっと、あーこれいらないやつだｗとなって捨てるのだ。
+今回はここに残しておいて、時々違うデザインに変えたりしてみようかな。&lt;/p&gt;
+&lt;h2 id="burogutaitoruhetsudaaan"&gt;ブログタイトルヘッダA案&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="ブログタイトルヘッダA案" src="images/sketch_logo_03.jpg" /&gt;&lt;/p&gt;
+&lt;h2 id="burogutaitoruhetsudaban"&gt;ブログタイトルヘッダB案&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="ブログタイトルヘッダB案" src="images/sketch_logo_05.jpg" /&gt;&lt;/p&gt;
+&lt;h2 id="burogutaitoruhetsudacan"&gt;ブログタイトルヘッダC案&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="ブログタイトルヘッダC案" src="images/sketch_logo_07.jpg" /&gt;&lt;/p&gt;
+&lt;h2 id="burogutaitoruhetsudaean"&gt;ブログタイトルヘッダE案&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="ブログタイトルヘッダD案" src="images/sketch_logo_09.jpg" /&gt;&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;div class="related-posts"&gt;
+      &lt;h4&gt;関連記事:&lt;/h4&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-08-29-illust-pencil.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_illust-pencil.jpg" alt=" 鉛筆書き風の鉛筆のイラスト"&gt;
+            鉛筆書き風の鉛筆のイラスト&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry><entry><title>鉛筆書き風の鉛筆のイラスト – スケッチ</title><link href="/qian-bi-shu-kifeng-noqian-bi-noirasuto-suketsuchi.html" rel="alternate"></link><published>2019-08-29T00:00:00+00:00</published><updated>2019-08-29T00:00:00+00:00</updated><author><name></name></author><id>tag:None,2019-08-29:/qian-bi-shu-kifeng-noqian-bi-noirasuto-suketsuchi.html</id><summary type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;鉛筆書き風の鉛筆のイラスト&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-29T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/29&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/illust.html" title="All articles with イラスト tag"&gt;#イラスト&lt;/a&gt;
+      &lt;/span&gt;
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/design.html" title="All articles with デザイン tag"&gt;#デザイン&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_illust-pencil.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#qian bi shu kifeng noqian bi noirasuto" title="鉛筆書き風の鉛筆のイラスト"&gt;鉛筆書き風の鉛筆のイラスト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;このブログのタイトル案製作の際に書いたやつ。procreate + ipad + apple pencil で書いたよ。&lt;/p&gt;
+
+&lt;h2 id="qian bi shu kifeng noqian bi noirasuto"&gt;鉛筆書き風の鉛筆のイラスト&lt;/h2&gt;
+&lt;p&gt;procreateって、すごいですよね。仕上がりの絵は本当に手書きっぽい。でも描いてるときは、やっぱりapple pencilの先がつるつる滑るし、ペン先をおろすたびにカツカツ不快な音が鳴ります。
+ペーパーライクフィルム貼ってだいぶ良くなりましたが、もっとザラザラしたやつに替えたいです。&lt;/p&gt;
+&lt;p&gt;なんか、技術的にすごいなーっていう気持ちで描き進めていけるのですけど、やっぱり描いていて紙のような心地よさはないです。&lt;/p&gt;
+&lt;p&gt;wacomのエストラマー芯みたいな、柔らかくて摩擦の高いものをペン先につけられるといいんですけどね …&lt;/p&gt;&lt;/section&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">
+  &lt;div class="container"&gt;
+    &lt;!-- mobile-toggle --&gt;
+    &lt;div class="mobile-toggle"&gt;
+      &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;サイドバー表示&lt;span class="glyphicon glyphicon-align-left" aria-hidden="true"&gt;&lt;/span&gt;&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;!-- /mobile-toggle --&gt;
+
+    &lt;div class="main"&gt;
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;div class="leftsidebar"&gt;
+        &lt;header id="header"&gt;
+
+
+
+          &lt;!-- titlehead text-center --&gt;
+          &lt;div class="titlehead text-center"&gt;
+            &lt;a href="sketch.ovh" id="header-logo" title="Home"&gt;
+              &lt;img src="sketch.ovh/theme/images/sketch_title.png" alt=""&gt;&lt;/a&gt;
+            &lt;img src="sketch.ovh/theme/images/line.png" alt=""&gt;
+            &lt;p class="discription"&gt;デザインとストックフォトと投資に関するブログ。
+              間違いがあった場合はコメントでご指摘いただけると、ありがたいです。shrike&lt;/p&gt;
+
+          &lt;/div&gt;
+          &lt;!-- /titlehead text-center --&gt;
+        &lt;/header&gt;
+
+
+        &lt;section class="search-box"&gt;
+
+          &lt;/hr&gt;
+          &lt;form class="navbar-search" action="sketch.ovh/search.html" onsubmit="return validateForm(this.elements['q'].value);"&gt; &lt;input type="text" class="search-query" placeholder="サイト内検索" name="q" id="tipue_search_input"&gt;&lt;input type="submit" value="" class="fas"&gt;
+          &lt;/form&gt;
+
+        &lt;/section&gt;
+
+
+
+        &lt;!-- bs-mobilenav --&gt;
+        &lt;div class="bs-mobilenav"&gt;
+          &lt;div class="mobile-toggle"&gt;
+            &lt;button class="btn btn-default btn-sm" data-toggle="bs-mobilenav" type="button"&gt;&lt;span class="glyphicon glyphicon-remove" aria-hidden="true"&gt;&lt;/button&gt;
+            &lt;i class="fas fa-align-left"&gt;&lt;/i&gt;
+          &lt;/div&gt;
+
+
+          &lt;nav id="header-menu"&gt;
+            &lt;h4 class="widget-header"&gt;
+              &lt;i class="fas fa-folder-open"&gt;&lt;/i&gt;カテゴリ別の記事一覧
+            &lt;/h4&gt;
+
+            &lt;ul class="nav"&gt;
+              &lt;li class="tag-1"&gt;&lt;a href="sketch.ovh/tag/toushi.html"&gt; 投資                  &lt;span class="badge"&gt;3&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-6"&gt;&lt;a href="sketch.ovh/tag/pelican.html"&gt; pelican                  &lt;span class="badge"&gt;1&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/illust.html"&gt; イラスト                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+              &lt;li class="tag-2"&gt;&lt;a href="sketch.ovh/tag/design.html"&gt; デザイン                  &lt;span class="badge"&gt;2&lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+
+            &lt;/ul&gt;
+
+            &lt;h4 class="widget-header"&gt;
+              &lt;a href="sketch.ovh/archives.html"&gt;
+                &lt;i class="fas fa-box-open"&gt;&lt;/i&gt;アーガイブ&lt;/a&gt;
+            &lt;/h4&gt;
+          &lt;/nav&gt;
+        &lt;/div&gt;
+        &lt;!-- bs-mobilenav --&gt;
+      &lt;/div&gt;
+      &lt;!-- /col-lg-3 col-md-4 leftsidebar --&gt;
+      &lt;!-- ///////////////////////////////// --&gt;
+
+
+
+
+      &lt;!-- ///////////////////////////////// --&gt;
+      &lt;!-- content-wrapper  --&gt;
+      &lt;div class="content-wrapper"&gt;
+
+        &lt;!-- upper-nav --&gt;
+
+        &lt;div class="upper-nav"&gt;
+          &lt;a href="sketch.ovh"&gt;ホーム&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/terms.html"&gt;ご利用にあたって&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/about.html"&gt;このサイトについて&lt;/a&gt;|
+          &lt;a href="sketch.ovh/pages/search.html"&gt;検索&lt;/a&gt;|
+        &lt;/div&gt;
+        &lt;!-- /upper-nav --&gt;
+        &lt;!-- content  --&gt;
+        &lt;div class="content"&gt;
+
+
+
+
+
+&lt;article class="post"&gt;
+  &lt;header&gt;
+    &lt;ol class="breadcrumb"&gt;
+      &lt;li&gt;&lt;a href="sketch.ovh" title="スケッチ"&gt;&lt;i class="fas fa-home"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="active"&gt;&lt;a href="sketch.ovh/category/blog.html"&gt;ブログ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h1&gt;&lt;i class="fas fa-chevron-circle-right"&gt;&lt;/i&gt;鉛筆書き風の鉛筆のイラスト&lt;/h1&gt;
+    &lt;div class="post-info"&gt;
+
+      &lt;span&gt;
+
+        &lt;time datetime="2019-08-29T00:00:00+09:00"&gt;&lt;i class="fas fa-calendar-alt"&gt;&lt;/i&gt;2019/08/29&lt;/time&gt;
+
+        in &lt;/span&gt;
+
+
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/illust.html" title="All articles with イラスト tag"&gt;#イラスト&lt;/a&gt;
+      &lt;/span&gt;
+      &lt;span&gt;
+        &lt;a href="sketch.ovh/tag/design.html" title="All articles with デザイン tag"&gt;#デザイン&lt;/a&gt;
+      &lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+
+
+  &lt;div class="headerimage-article"&gt;
+    &lt;img src="sketch.ovh/images/thumbnail_illust-pencil.jpg" /&gt;
+  &lt;/div&gt;
+
+  &lt;nav class="toc"&gt;
+    &lt;p class="toc_title"&gt;&lt;i class="fas fa-book"&gt;&lt;/i&gt;目次&lt;/p&gt;
+     &lt;ul&gt;&lt;li&gt;&lt;a class="toc-href" href="#qian bi shu kifeng noqian bi noirasuto" title="鉛筆書き風の鉛筆のイラスト"&gt;鉛筆書き風の鉛筆のイラスト&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+  &lt;/nav&gt;
+
+
+
+  &lt;section id="content"&gt;
+    
+&lt;p&gt;このブログのタイトル案製作の際に書いたやつ。procreate + ipad + apple pencil で書いたよ。&lt;/p&gt;
+
+&lt;h2 id="qian bi shu kifeng noqian bi noirasuto"&gt;鉛筆書き風の鉛筆のイラスト&lt;/h2&gt;
+&lt;p&gt;procreateって、すごいですよね。仕上がりの絵は本当に手書きっぽい。でも描いてるときは、やっぱりapple pencilの先がつるつる滑るし、ペン先をおろすたびにカツカツ不快な音が鳴ります。
+ペーパーライクフィルム貼ってだいぶ良くなりましたが、もっとザラザラしたやつに替えたいです。&lt;/p&gt;
+&lt;p&gt;なんか、技術的にすごいなーっていう気持ちで描き進めていけるのですけど、やっぱり描いていて紙のような心地よさはないです。&lt;/p&gt;
+&lt;p&gt;wacomのエストラマー芯みたいな、柔らかくて摩擦の高いものをペン先につけられるといいんですけどね。&lt;/p&gt;
+&lt;p&gt;ところで、私はDTPの経験が長くて、書いたものは最後に、Vectorデータにならないと気が済まないです（笑）。
+pixcelデータだと、「あとでめっちゃでかく引き伸ばしたくなったらどうしよう。。。でもでかくすると重いし。。。」って描く前から、謎の葛藤が発生して。ドキュメントサイズを決められずに時間が過ぎます。&lt;/p&gt;
+&lt;p&gt;落書き程度に書いたものを、でかく引き伸ばすことなんてないです、と心に決めて描き始めますが、最終的にはやっぱり、Affinityデザイナーにもっていって、トレースし始めてしまいます。&lt;/p&gt;
+&lt;p&gt;結果として手書き風が失われます。
+鉛筆っぽいかすれ感残したかったのに。&lt;/p&gt;
+&lt;p&gt;手書き風の表現ってVectorだとなかなか難しいですよね。
+ブログのタイトルヘッダに使用した&lt;a href="https://www.dafont.com/fff-tusj.font"&gt;フォント&lt;/a&gt;なんかは本当に上手に鉛筆書き風を表現していますよね。&lt;/p&gt;
+&lt;p&gt;Vectorでも鉛筆っぽいかすれ感とか、もっと簡単に表現できたらいいのにね！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="鉛筆書き風の鉛筆のイラスト" src="illust-pencil.jpg" /&gt;&lt;/p&gt;
+  &lt;/section&gt;
+
+
+  &lt;footer&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;div class="related-posts"&gt;
+      &lt;h4&gt;関連記事:&lt;/h4&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+
+          &lt;a href="sketch.ovh/posts/blog/2019-08-30-titledesign.html"&gt;
+
+
+            &lt;img src="sketch.ovh/images/thumbnail_m_sketch_logo_03.jpg" alt=" 当ブログタイトルヘッダのデザイン案"&gt;
+            当ブログタイトルヘッダのデザイン案&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function () { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://sketch-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;/footer&gt;
+
+&lt;/article&gt;
+
+        &lt;/div&gt;&lt;!-- /content  --&gt;
+        &lt;!-- right  --&gt;
+        &lt;div class="rightsidebar"&gt;
+          &lt;img src="sketch.ovh/images/150x500.png" alt="ad"&gt;
+
+        &lt;/div&gt;&lt;!-- /right  --&gt;
+
+
+      &lt;/div&gt;
+      &lt;!-- content-wrapper  --&gt;
+
+      &lt;div class="sidebar-content"&gt;
+        &lt;div class="ad"&gt;
+        &lt;/div&gt;
+        &lt;img src="sketch.ovh/images/250.png" alt="ad"&gt;
+
+
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;&lt;!-- /main --&gt;
+
+    &lt;!-- footer --&gt;
+    &lt;footer class="footer"&gt;
+
+
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 1 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 2 --&gt;
+      &lt;div class="footer-col"&gt;footer column 1&lt;/div&gt;&lt;!-- footer column 3 --&gt;
+    &lt;/footer&gt;
+    &lt;div class="attribution"&gt;
+      &lt;span&gt;&amp;copy;
+        2019-2019
+        shrike &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;!-- /footer --&gt;
+
+  &lt;/div&gt;&lt;!-- /container --&gt;
+
+
+
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-146919069-1', 'auto');
+      ga('send', 'pageview');
+    &lt;/script&gt;  &lt;!-- &lt;script src="https://code.jquery.com/jquery-1.11.2.min.js"&gt;&lt;/script&gt; --&gt;
+  &lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"&gt;&lt;/script&gt;
+  &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/lib/jquery.touchSwipe.min.js"&gt;&lt;/script&gt;
+  &lt;script src="sketch.ovh/theme/dist/bs-mobilenav.min.js"&gt;&lt;/script&gt;
+
+  &lt;script&gt;
+    $(function () {
+      BSMobilenav.init({
+        swipe: true
+      });
+
+      $(document).on('click', '.bs-mobilenav-show', function () {
+        BSMobilenav.showMenu();
+      });
+    });
+  &lt;/script&gt;
+  &lt;script id="dsq-count-scr" src="//sketch-1.disqus.com/count.js" async&gt;&lt;/script&gt;
+</content></entry></feed>

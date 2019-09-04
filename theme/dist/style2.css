@@ -34,7 +34,7 @@ article.post .post-info {
     border-color: #383d41;
     /* position: relative; */
     padding: .2rem 1.25rem;
-    margin-bottom: 2rem;
+    margin: 1rem 0 2rem 0;
     border: 1px solid #e2e3e5;
     border-radius: .25rem;
 }
@@ -72,7 +72,26 @@ i.fas.fa-sync-alt ,i.fas.fa-calendar-alt{
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
-
+pre {
+    margin: auto;
+    position: relative;
+    box-sizing: border-box;
+    background-color: #394034;
+    color: #f8f8f2!important;
+    display: block;
+    line-height: 1.4;
+    padding: 40px 24px;
+    text-align: left;
+    overflow: auto;
+    resize: horizontal;
+    z-index: 2;
+    border: 0;
+    border-radius: 8px;
+    vertical-align: 0;
+    font-family: Menlo,Consolas,'DejaVu Sans Mono',monospace;
+    font-size: 14px!important;
+    font-weight: 700;
+}
 
 #content img {
     max-width: 100%;
@@ -369,7 +388,7 @@ nav.toc ul li ul li {
     background-color: #333;
 } */
 section#content {
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 button,
 input,
@@ -1090,7 +1109,7 @@ h2 {
   font-weight: normal;
 }
 body {
-  line-height: 1.75;
+  line-height: 2;
   font-family: "Lato", "Noto Sans JP", "游ゴシック Medium", "游ゴシック体",
     "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN",
     "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック",

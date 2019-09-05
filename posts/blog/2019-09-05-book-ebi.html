@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>ブログにタグクラウド設置
+  <title>【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ
 &ndash; スケッチ</title>
 
   <!-- Meta -->
@@ -15,18 +15,18 @@
   <!-- Social -->
   <meta property="article:author" content="shrike" />
   <meta property="article:section" content="ブログ" />
-  <meta property="article:published_time" content="2019-09-02" />
+  <meta property="article:published_time" content="2019-09-05" />
 
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="ブログにタグクラウド設置" />
-  <meta property="og:description" content="Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。" />
+  <meta property="og:title" content="【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ" />
+  <meta property="og:description" content="「東大卒医師が教える科学的『株』投資術」の復刻版です。 読んだときのメモです。" />
   <meta property="og:site_name" content="スケッチ" />
-  <meta property="og:url" content="https://sketch.ovh/posts/blog/2019-09-02-tagcloud.html" />
+  <meta property="og:url" content="https://sketch.ovh/posts/blog/2019-09-05-book-ebi.html" />
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="ブログにタグクラウド設置">
-  <meta name="twitter:description" content="Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。">
-  <meta name="twitter:url" content="https://sketch.ovh/posts/blog/2019-09-02-tagcloud.html">
+  <meta name="twitter:title" content="【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ">
+  <meta name="twitter:description" content="「東大卒医師が教える科学的『株』投資術」の復刻版です。 読んだときのメモです。">
+  <meta name="twitter:url" content="https://sketch.ovh/posts/blog/2019-09-05-book-ebi.html">
 
   <!-- Feed -->
   <link rel="alternate" type="application/rss+xml" href="https://sketch.ovh/feeds/all.rss.xml"
@@ -157,19 +157,19 @@
       <li><a href="https://sketch.ovh" title="スケッチ"><i class="fas fa-home"></i></a></li>
       <li class="active"><a href="https://sketch.ovh/category/blog.html">ブログ</a></li>
     </ol>
-    <h1><i class="fas fa-chevron-circle-right"></i>ブログにタグクラウド設置</h1>
+    <h1><i class="fas fa-chevron-circle-right"></i>【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ</h1>
     <div class="post-info">
 
       <span>
 
-        <time datetime="2019-09-02T00:00:00+09:00"><i
-            class="fas fa-calendar-alt"></i>2019/09/02</time>
+        <time datetime="2019-09-05T00:00:00+09:00"><i
+            class="fas fa-calendar-alt"></i>2019/09/05</time>
 
         in </span>
 
 
       <span>
-        <a href="https://sketch.ovh/tag/pelican.html" title="All articles with Pelican tag">#pelican</a>
+        <a href="https://sketch.ovh/tag/toushi.html" title="All articles with Toushi tag">#toushi</a>
       </span>
 
     </div>
@@ -178,95 +178,70 @@
 
 
   <div class="headerimage-article">
-    <img src="https://sketch.ovh/images/thumbnail_pelican.jpg" />
+    <img src="https://sketch.ovh/images/thumbnail_stock.jpg" />
   </div>
 
   <nav class="toc">
     <p class="toc_title"><i class="fas fa-book"></i>目次</p>
-     <ul><li><a class="toc-href" href="#tagukakategorika." title="タグかカテゴリか。">タグかカテゴリか。</a></li><li><a class="toc-href" href="#puraguinwodao ru" title="プラグインを導入">プラグインを導入</a></li><li><a class="toc-href" href="#zui hou ni" title="最後に">最後に</a></li></ul>
+     <ul><li><a class="toc-href" href="#ebidensuniji duitaming bing xuan ding ji zhun" title="エビデンスに基づいた銘柄選定基準">エビデンスに基づいた銘柄選定基準</a><ul><li><a class="toc-href" href="#ge an xing" title="割安性">割安性</a></li><li><a class="toc-href" href="#cai wu zhuang tai" title="財務状態">財務状態</a></li><li><a class="toc-href" href="#shou yi xing" title="収益性">収益性</a></li><li><a class="toc-href" href="#ye ji yu xiang" title="業績予想">業績予想</a></li></ul></li><li><a class="toc-href" href="#matome_1" title="まとめ">まとめ</a></li></ul>
   </nav>
 
 
 
   <section id="content">
     
-<p>Pelicanでつくられているこのブログにタグクラウドのプラグインを導入した話。</p>
+<p>「東大卒医師が教える科学的『株』投資術」の復刻版です。
+読んだときのメモです。</p>
 
-<h2 id="tagukakategorika.">タグかカテゴリか。</h2>
-<p>このブログはスタティックサイトジェネレータの<a href="https://github.com/getpelican/pelican">Pelican</a>で作られているんですが、ちょっとカテゴリにするか、タグにするかどちらか悩んだのですが、結局タグを使用することにしました。</p>
-<p>カテゴリだと1記事に対して、1個しか作れないけど、タグなら複数つけられて、執筆の際に悩まなくてすみますからね。</p>
-<p>両方使うとなんかややこしくなるのでしばらくタグのみでやってみます。</p>
-<p>それでサイドバーに<a href="https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud">pelican-plugins/tag_cloud at master &middot; getpelican/pelican-plugins</a>を導入したときのメモを残します。</p>
-<h2 id="puraguinwodao ru">プラグインを導入</h2>
+<h2 id="ebidensuniji duitaming bing xuan ding ji zhun">エビデンスに基づいた銘柄選定基準</h2>
+<h3 id="ge an xing">割安性</h3>
+<ul>
+<li>PER &lt; 12</li>
+</ul>
+<p>フォワードPERを見る</p>
+<ul>
+<li>PCFR &lt; 8</li>
+</ul>
+<p>フォワードPCFRを見る</p>
 <ul>
 <li>
-<p><a href="https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud">pelican-plugins/tag_cloud at master &middot; getpelican/pelican-plugins</a>からダウンロードしてPLUGIN_PATHに設置。</p>
+<p>EV/EBITDA &lt; 6</p>
 </li>
 <li>
-<p>pelicanconf.pyに</p>
+<p>EV/EBIT &lt; 8</p>
+</li>
+<li>
+<p>低PBR + F_SCPRE &gt; 3</p>
+</li>
+<li>低PBR + 高G_SCORE</li>
+</ul>
+<h3 id="cai wu zhuang tai">財務状態</h3>
+<ul>
+<li>
+<p>ROD &gt; 0.3</p>
+</li>
+<li>
+<p>有利子負債キャッシュフロー比率 &lt; 4</p>
 </li>
 </ul>
-<div class="highlight"><pre><span></span><span class="nv">PLUGINS</span> <span class="o">=</span> [<span class="s1">'</span><span class="s">tag_cloud</span><span class="s1">'</span>]
-
-
-
-<span class="nv">TAG_CLOUD_STEPS</span> <span class="o">=</span> <span class="mi">4</span> #サイズを変化させる段階
-<span class="nv">TAG_CLOUD_MAX_ITEMS</span> <span class="o">=</span> <span class="mi">100</span> #最大何個表示するか
-<span class="nv">TAG_CLOUD_SORTING</span> <span class="o">=</span> <span class="s1">'</span><span class="s">random</span><span class="s1">'</span> # 並び順　<span class="k">random</span>, <span class="nv">alphabetically</span>, <span class="nv">alphabetically</span><span class="o">-</span><span class="nv">rev</span>, <span class="nv">size</span> <span class="nv">and</span> <span class="nv">size</span><span class="o">-</span><span class="nv">rev</span>
-<span class="nv">TAG_CLOUD_BADGE</span> <span class="o">=</span> <span class="nv">True</span> #記事数のバッジ
-</pre></div>
+<h3 id="shou yi xing">収益性</h3>
 <ul>
-<li>templateに任意の場所（私の場合はbase.htmlのサイドバーの部分）に</li>
+<li>ROE &gt; 12</li>
+<li>ROA &gt; 7</li>
+<li>ROIC &gt; 20</li>
+<li>営業利益売上高比 &gt; 15</li>
+<li>MARGIN &gt; 7</li>
 </ul>
-<div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="nv">ul</span> <span class="nv">class</span><span class="o">=</span><span class="s2">"</span><span class="s">tagcloud</span><span class="s2">"</span><span class="o">&gt;</span>
-    {<span class="o">%</span> <span class="k">for</span> <span class="nv">tag</span> <span class="nv">in</span> <span class="nv">tag_cloud</span> <span class="o">%</span>}
-        <span class="o">&lt;</span><span class="nv">li</span> <span class="nv">class</span><span class="o">=</span><span class="s2">"</span><span class="s">tag-{{ tag.1 }}</span><span class="s2">"</span><span class="o">&gt;</span>
-            <span class="o">&lt;</span><span class="nv">a</span> <span class="nv">href</span><span class="o">=</span><span class="s2">"</span><span class="s">{{ SITEURL }}/{{ tag.0.url }}</span><span class="s2">"</span><span class="o">&gt;</span>
-            {{ <span class="nv">tag</span>.<span class="mi">0</span> }}
-                {<span class="o">%</span> <span class="k">if</span> <span class="nv">TAG_CLOUD_BADGE</span> <span class="o">%</span>}
-                    <span class="o">&lt;</span><span class="nv">span</span> <span class="nv">class</span><span class="o">=</span><span class="s2">"</span><span class="s">badge</span><span class="s2">"</span><span class="o">&gt;</span>{{ <span class="nv">tag</span>.<span class="mi">2</span> }}<span class="o">&lt;/</span><span class="nv">span</span><span class="o">&gt;</span>
-                {<span class="o">%</span> <span class="k">endif</span> <span class="o">%</span>}
-            <span class="o">&lt;/</span><span class="nv">a</span><span class="o">&gt;</span>
-        <span class="o">&lt;/</span><span class="nv">li</span><span class="o">&gt;</span>
-    {<span class="o">%</span> <span class="nv">endfor</span> <span class="o">%</span>}
-<span class="o">&lt;/</span><span class="nv">ul</span><span class="o">&gt;</span>
-</pre></div>
+<h3 id="ye ji yu xiang">業績予想</h3>
 <ul>
-<li>スタイルシートに</li>
+<li>高レートは避ける</li>
+<li>上方修正は買い</li>
 </ul>
-<div class="highlight"><pre><span></span><span class="nt">ul</span><span class="p">.</span><span class="nc">tagcloud</span> <span class="p">{</span>
-  <span class="k">list-style</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
-    <span class="k">padding</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="nt">ul</span><span class="p">.</span><span class="nc">tagcloud</span> <span class="nt">li</span> <span class="p">{</span>
-    <span class="k">display</span><span class="p">:</span> <span class="kc">inline-block</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="nt">li</span><span class="p">.</span><span class="nc">tag-1</span> <span class="p">{</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="mi">150</span><span class="kt">%</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="nt">li</span><span class="p">.</span><span class="nc">tag-2</span> <span class="p">{</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="mi">120</span><span class="kt">%</span><span class="p">;</span>
-<span class="p">}</span>
-</pre></div>
-<p>私はカテゴリ風に使うので大きさは変化させていません。</p>
-<ul>
-<li>タグのスラッグを設定</li>
-</ul>
-<p>日本語のタグの場合<a href="https://docs.getpelican.com/en/stable/changelog.html?highlight=TAG_SUBSTITUTIONS#id6">Release history &mdash; Pelican 4.1.1 documentation</a> にあるように、タグのスラッグをpelicanconf.pyで設定します。</p>
-<div class="highlight"><pre><span></span><span class="n">TAG_SUBSTITUTIONS</span> <span class="o">=</span> <span class="p">[</span>
-    <span class="p">(</span><span class="n">unidecode</span><span class="p">(</span><span class="s1">'テスト'</span><span class="p">),</span> <span class="s1">'test'</span><span class="p">,</span> <span class="k">True</span><span class="p">),</span>
-    <span class="p">(</span><span class="n">unidecode</span><span class="p">(</span><span class="s1">'投稿'</span><span class="p">),</span> <span class="s1">'post'</span><span class="p">,</span> <span class="k">True</span><span class="p">),</span>
-    <span class="p">(</span><span class="n">unidecode</span><span class="p">(</span><span class="s1">'お知らせ'</span><span class="p">),</span> <span class="s1">'infomation'</span><span class="p">,</span> <span class="k">True</span><span class="p">)</span>
-
-<span class="p">]</span>
-</pre></div>
-<p>こんな感じ。</p>
-<h2 id="zui hou ni">最後に</h2>
-<p>pelicanの記事だからpelicanの写真ないかなーって探したら自前であったのすごくないですか。
-八景島シーパラダイスのペリカンさんの写真です。。。これペリカンだと思う。</p>
+<h2 id="matome_1">まとめ</h2>
+<p>ざっとメモ程度のまとめです。根拠については、本を買って読んでみて下さい。
+今のところ、私は読みましたが、決算書とかも読めないので、そちらの勉強が必要です。
+わかったのは、たまに日本語の指標が出てくると安心するということです。
+おわり</p>
   </section>
 
 
@@ -286,11 +261,27 @@
       <ul>
         <li>
 
-          <a href="https://sketch.ovh/posts/blog/2019-09-04-domein.html">
+          <a href="https://sketch.ovh/posts/blog/2019-09-03-tranceferwise.html">
 
 
-            <img src="https://sketch.ovh/images/thumbnail_m_ovhprice.png" alt=" OVHドメインの取得">
-            OVHドメインの取得</a>
+            <img src="https://sketch.ovh/images/thumbnail_m_banking.jpg" alt=" ユニオンバンクへの送金。初めての海外送金。">
+            ユニオンバンクへの送金。初めての海外送金。</a>
+        </li>
+        <li>
+
+          <a href="https://sketch.ovh/posts/blog/2019-09-02-unionbank.html">
+
+
+            <img src="https://sketch.ovh/images/thumbnail_m_coins.jpg" alt=" 米国株式投資を始める為の準備。">
+            米国株式投資を始める為の準備。</a>
+        </li>
+        <li>
+
+          <a href="https://sketch.ovh/posts/blog/2019-08-31-rakuten-seminar.html">
+
+
+            <img src="https://sketch.ovh/images/thumbnail_m_money.jpg" alt=" 【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ">
+            【米国株式】人生100年時代を見据えた後悔しない資産形成セミナーメモ</a>
         </li>
       </ul>
     </div>

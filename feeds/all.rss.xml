@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>スケッチ</title><link>https://sketch.ovh/</link><description>デザインとストックフォトと投資に関する個人ブログ</description><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0900</lastBuildDate><item><title>【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ</title><link>https://sketch.ovh/posts/blog/2019-09-05-book-ebi.html</link><description>
+<rss version="2.0"><channel><title>スケッチ</title><link>https://sketch.ovh/</link><description>デザインとストックフォトと投資に関する個人ブログ</description><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0900</lastBuildDate><item><title>【随時更新】作ってみておいしかったレシピ</title><link>https://sketch.ovh/posts/blog/2019-09-06-recipe.html</link><description>
+&lt;p&gt;ネットで沢山のレシピの中から、作ってみておいしかったレシピをまとめておく。なぜなら、また作るとき、似たようなレシピが多くて、どのレシピを使ったか忘れるから。&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">shrike</dc:creator><pubDate>Fri, 06 Sep 2019 00:00:00 +0900</pubDate><guid isPermaLink="false">tag:sketch.ovh,2019-09-06:/posts/blog/2019-09-06-recipe.html</guid><category>料理</category></item><item><title>【読書メモ】エビデンスに基づく株式投資（EBI）のすすめ</title><link>https://sketch.ovh/posts/blog/2019-09-05-book-ebi.html</link><description>
 &lt;p&gt;「東大卒医師が教える科学的『株』投資術」の復刻版です。
 読んだときのメモです。&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">shrike</dc:creator><pubDate>Thu, 05 Sep 2019 00:00:00 +0900</pubDate><guid isPermaLink="false">tag:sketch.ovh,2019-09-05:/posts/blog/2019-09-05-book-ebi.html</guid><category>toushi</category></item><item><title>OVHドメインの取得</title><link>https://sketch.ovh/posts/blog/2019-09-04-domein.html</link><description>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">shrike</dc:creator><pubDate>Thu, 05 Sep 2019 00:00:00 +0900</pubDate><guid isPermaLink="false">tag:sketch.ovh,2019-09-05:/posts/blog/2019-09-05-book-ebi.html</guid><category>投資</category></item><item><title>OVHドメインの取得</title><link>https://sketch.ovh/posts/blog/2019-09-04-domein.html</link><description>
 &lt;p&gt;OVHドメイン取得を取得したときのメモです。取得して、Emailを有効にする、カスタムドメインを設定する。&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">shrike</dc:creator><pubDate>Wed, 04 Sep 2019 00:00:00 +0900</pubDate><guid isPermaLink="false">tag:sketch.ovh,2019-09-04:/posts/blog/2019-09-04-domein.html</guid><category>pelican</category></item><item><title>ユニオンバンクへの送金。初めての海外送金。</title><link>https://sketch.ovh/posts/blog/2019-09-03-tranceferwise.html</link><description>
 &lt;p&gt;先日、ユニオンバンクの口座開設が完了したので、60日以内に300ドル以上入金しなければなりません。&lt;/p&gt;

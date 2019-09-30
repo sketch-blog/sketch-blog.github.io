@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>https://sketch.ovh/posts/blog/2019-09-30-googlehome.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://sketch.ovh/posts/blog/2019-09-17-applepencil.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://sketch.ovh/posts/blog/2019-09-16-book-nennri15.html</loc>
         <priority>0.8</priority>
     </url>
@@ -68,6 +78,11 @@
 
     <url>
         <loc>https://sketch.ovh/posts/blog/2019-08-29-illust-pencil.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://sketch.ovh/posts/blog/2012-03-02--error-404-.html</loc>
         <priority>0.8</priority>
     </url>
 
